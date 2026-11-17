@@ -16,7 +16,7 @@ Sistema de Visión Computacional entrenado desde cero para detectar e identifica
 2. Verificar la IP de DroidCam en `APF3_CRISTOFERLACHIRA.py` y ejecutar: `python APF3_CRISTOFERLACHIRA.py`
 
 ## Video Demostrativo
-* **Enlace al video (2–4 min):** PEGA_AQUI_TU_LINK_DE_YOUTUBE_O_DRIVE
+* **Enlace al video:** https://youtu.be/8iEXZKT9EP8
 
 ## Autor
 * **Cristofer Smith Lachira Zapata** – Estudiante de Ingeniería Civil (UTP)
